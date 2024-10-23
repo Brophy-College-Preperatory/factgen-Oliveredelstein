@@ -6,15 +6,14 @@
 body {
   font-family: 'Overpass', sans-serif; 
   text-align: center; 
-  color: #003046; /* Default text color */
-  background-color: #F9E9EC;/* Background color */
+  color: #003046; /*This changes the base color to black*/
 }
 
 h1 {
-  background-color: #FAC748;
+  background-color: #FAC748;/*This changes the backround color to yellow*/
   color:#1D2F6F;
-  text-align: center; 
-  font-family: 'Playfair Display', serif;
+  text-align: center; /*Move the text to center*/
+  font-family: 'Playfair Display', serif;/*Changes the type of font to playfair display*/
 }
 
 main {
@@ -26,7 +25,7 @@ main {
 
 /* STYLE TEXT */
 p {
-  font-size: 1.2em;
+  font-size: 1.2em;/* Everything below this is the style text */
   text-align: left; 
   padding-top: 1em;
   padding-bottom: 1em;
