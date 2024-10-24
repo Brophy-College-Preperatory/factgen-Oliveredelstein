@@ -17,7 +17,7 @@ h1 {
 }
 
 main {
-  margin: 0 auto;
+  margin: 0 auto;/*this changes the main body to 60% width, and aline with the center*/
   max-width: 60%;
   text-align: center;
   font-family: 'Overpass', sans-serif; 
@@ -32,14 +32,14 @@ p {
 }
 
 #fact {
-  font-weight: 700;
+  font-weight: 700;/*these change the font, its weight is 700, size is 1.5em, adn it aligns it with the top and middle. */
   font-size: 1.5em;
   text-align: center;
   margin-top: 1.5em;
 }
 
 h1 {
-  font-size: 2.2em;
+  font-size: 2.2em;/*This is the font size of the heading*/
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -48,7 +48,7 @@ h1 {
 
 /* STYLE BUTTON */
 button {
-  background: #FAC748;
+  background: #FAC748;/*this changes the backround to yellow*/
   padding: 10px;
   font-family: 'Playfair Display', serif;
   font-size: 1em;
